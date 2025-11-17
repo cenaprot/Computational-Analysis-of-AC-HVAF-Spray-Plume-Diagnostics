@@ -1,0 +1,9 @@
+{
+  "THRESHOLD_FRAC": 0.1,
+  "PEAK_DISTANCE": 3,
+  "PEAK_PROM_REL": 0.005,
+  "MIN_HEIGHT_REL": 0.8,
+  "SMOOTH_WIN": 3,
+  "SMOOTH_POLY": 2,
+  "RADIUS": 10
+}
