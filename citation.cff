@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+title: "Optimization of Hardfacing Coating Deposition by Computational Analysis of AC-HVAF Spray-Plume Diagnostics "
+message: "If you use this repository, please cite it as below."
+type: software
+
+# --- Authors 
+authors:
+  - family-names: "Muñoz Castillo"
+    given-names: "Juan Alejandro"
+    orcid: "https://orcid.org/0009-0009-4841-3633"   
+    affiliation: "<AFFILIATION 1>"
+  - family-names: "Saldarriaga Montoya"
+    given-names: "Víctor Dahián"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+    affiliation: "<AFFILIATION 2>"
+
+version: "v1.0.0"
+date-released: "2025-11-17"
+license: "MIT"
+repository-code: "https://github.com/cenaprot/Computational-Analysis-of-AC-HVAF-Spray-Plume-Diagnostics"
+url: "https://github.com/cenaprot/Computational-Analysis-of-AC-HVAF-Spray-Plume-Diagnostics"
+
+keywords:
+  - coating deposition
+  - spray plume
+  - python
+
+abstract: >
+  < Notebook to compute flame lengths from luma profiles,
+  generate GIF animations, and reproduce the qualitative analyses 
+  reported in the accompanying manuscript.>
+
+preferred-citation:
+  type: dataset
+  title: "AC-HVAF Spray-Plume Hardfacing Coating Deposition Dataset"
+  authors:
+    - family-names: "Saldarriaga"
+      given-names: "Víctor Dahián"
+    - family-names: "Muñoz Castillo"
+      given-names: "Juan Alejandro"
+  year: 2025
+  version: "v1.0.0"
+  doi: "10.5281/zenodo.17468557"
+  url: "https://doi.org/10.5281/zenodo.17468557"
+  notes: "Dataset licensed CC BY-NC 4.0."
+
